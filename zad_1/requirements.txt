@@ -1,0 +1,5 @@
+pyodbc
+spacy
+pdfplumber
+python-docx
+openpyxl

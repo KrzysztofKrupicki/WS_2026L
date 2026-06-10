@@ -1,0 +1,7 @@
+**__pycache__
+/zad_2/debug
+/zad_2/output
+/zad_2/debug_tuning
+/zad_3/easyocr_data
+*.zip
+*.safetensors
